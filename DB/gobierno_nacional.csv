@@ -1,15 +1,15 @@
-Nombre;URL;Tipo de fuente;Entidad/País;Descripción;Resumen del contenido
-Datos Uruguay;https://catalogodatos.gub.uy/;Gobierno Nacional;Uruguay;Catálogo de datos abiertos del gobierno uruguayo;Catálogo con datasets abiertos de diversas agencias estatales de Uruguay.
-Datos Argentina;https://www.datos.gob.ar/dataset;Gobierno Nacional;Argentina;Datos abiertos del gobierno argentino;Provee datasets gubernamentales argentinos de economía, salud, educación, etc.
-Datos Colombia;https://www.datos.gov.co/;Gobierno Nacional;Colombia;Datos abiertos del gobierno colombiano;Permite descargar datasets del gobierno colombiano, como salud, transporte, etc.
-Datos República Dominicana;https://datos.gob.do/;Gobierno Nacional;República Dominicana;Datos abiertos del gobierno dominicano;Contiene datos gubernamentales de República Dominicana.
-Datos Guatemala;https://datos.gob.gt/;Gobierno Nacional;Guatemala;Datos abiertos del gobierno guatemalteco;Proporciona acceso a datos públicos del gobierno guatemalteco.
-Datos México;https://www.datos.gob.mx/busca/dataset;Gobierno Nacional;México;Datos abiertos del gobierno mexicano;Ofrece acceso a datos del gobierno mexicano sobre distintos sectores públicos.
-Datos Panamá;https://www.datosabiertos.gob.pa/;Gobierno Nacional;Panamá;Datos abiertos del gobierno panameño;Acceso a datasets abiertos de organismos del gobierno panameño.
-Datos Perú;https://www.datosabiertos.gob.pe/;Gobierno Nacional;Perú;Datos abiertos del gobierno peruano;Brinda datos estadísticos y administrativos del gobierno peruano.
-Datos Chile;https://datos.gob.cl/;Gobierno Nacional;Chile;Portal de datos abiertos de Chile;Proporciona datos abiertos de instituciones públicas chilenas.
-Datos Europa;https://data.europa.eu/es;Gobierno Nacional;Unión Europea;Portal de datos abiertos de la UE;Contiene datos abiertos de instituciones de la Unión Europea en múltiples áreas.
-Datos Paraguay;https://www.datos.gov.py/;Gobierno Nacional;Paraguay;Portal de datos abiertos de Paraguay;Ofrece datasets abiertos del gobierno de Paraguay.
-Datos Bolivia;https://datos.gob.bo/;Gobierno Nacional;Bolivia;Portal de datos abiertos del gobierno de Bolivia;Portal boliviano de datos abiertos de gobierno.
-Datos Ecuador;https://www.datosabiertos.gob.ec/;Gobierno Nacional;Ecuador;Portal de datos abiertos del gobierno de Ecuador;Incluye datos del gobierno ecuatoriano de varias áreas públicas.
-Data.gov (EE.UU.);https://data.gov/;Gobierno Nacional;Estados Unidos;Portal de datos abiertos del gobierno de EE.UU.;Contiene miles de datasets públicos de EE.UU. en diversas áreas.
+Nombre,URL,Tipo de fuente,Entidad/País,Descripción,Resumen del contenido
+Datos Uruguay,https://catalogodatos.gub.uy/,Gobierno Nacional,Uruguay,Catálogo de datos abiertos del gobierno uruguayo,Catálogo con datasets abiertos de diversas agencias estatales de Uruguay.
+Datos Argentina,https://www.datos.gob.ar/dataset,Gobierno Nacional,Argentina,Datos abiertos del gobierno argentino,"Provee datasets gubernamentales argentinos de economía, salud, educación, etc."
+Datos Colombia,https://www.datos.gov.co/,Gobierno Nacional,Colombia,Datos abiertos del gobierno colombiano,"Permite descargar datasets del gobierno colombiano, como salud, transporte, etc."
+Datos República Dominicana,https://datos.gob.do/,Gobierno Nacional,República Dominicana,Datos abiertos del gobierno dominicano,Contiene datos gubernamentales de República Dominicana.
+Datos Guatemala,https://datos.gob.gt/,Gobierno Nacional,Guatemala,Datos abiertos del gobierno guatemalteco,Proporciona acceso a datos públicos del gobierno guatemalteco.
+Datos México,https://www.datos.gob.mx/busca/dataset,Gobierno Nacional,México,Datos abiertos del gobierno mexicano,Ofrece acceso a datos del gobierno mexicano sobre distintos sectores públicos.
+Datos Panamá,https://www.datosabiertos.gob.pa/,Gobierno Nacional,Panamá,Datos abiertos del gobierno panameño,Acceso a datasets abiertos de organismos del gobierno panameño.
+Datos Perú,https://www.datosabiertos.gob.pe/,Gobierno Nacional,Perú,Datos abiertos del gobierno peruano,Brinda datos estadísticos y administrativos del gobierno peruano.
+Datos Chile,https://datos.gob.cl/,Gobierno Nacional,Chile,Portal de datos abiertos de Chile,Proporciona datos abiertos de instituciones públicas chilenas.
+Datos Europa,https://data.europa.eu/es,Gobierno Nacional,Unión Europea,Portal de datos abiertos de la UE,Contiene datos abiertos de instituciones de la Unión Europea en múltiples áreas.
+Datos Paraguay,https://www.datos.gov.py/,Gobierno Nacional,Paraguay,Portal de datos abiertos de Paraguay,Ofrece datasets abiertos del gobierno de Paraguay.
+Datos Bolivia,https://datos.gob.bo/,Gobierno Nacional,Bolivia,Portal de datos abiertos del gobierno de Bolivia,Portal boliviano de datos abiertos de gobierno.
+Datos Ecuador,https://www.datosabiertos.gob.ec/,Gobierno Nacional,Ecuador,Portal de datos abiertos del gobierno de Ecuador,Incluye datos del gobierno ecuatoriano de varias áreas públicas.
+Data.gov (EE.UU.),https://data.gov/,Gobierno Nacional,Estados Unidos,Portal de datos abiertos del gobierno de EE.UU.,Contiene miles de datasets públicos de EE.UU. en diversas áreas.
